@@ -1,4 +1,7 @@
 from flask import Flask, request, jsonify
+import json
+import os  # ← This is the fix
+
 
 app = Flask(__name__)
 
