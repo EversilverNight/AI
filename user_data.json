@@ -1,0 +1,7 @@
+{
+  "name": "Evernight",
+  "wake_up_time": "7:00 AM",
+  "preferred_focus_blocks": ["9 AM - 12 PM", "2 PM - 5 PM"],
+  "mood": "neutral",
+  "goals": ["build my AI", "improve focus", "work out regularly"]
+}
